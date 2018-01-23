@@ -15,9 +15,11 @@ function divide(a, b){
 }
 
 function inc(a){
+  var a = 10
   return a++
 }
 
 function dec(a){
+  var a = 364
   return a--
 }
