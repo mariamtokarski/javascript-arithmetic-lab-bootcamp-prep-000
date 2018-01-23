@@ -16,10 +16,10 @@ function divide(a, b){
 
 function inc(n){
   var a = 10
-  return a++
+  return a + 1
 }
 
 function dec(n){
   var a = 10
-  return a--
+  return a - 1
 }
